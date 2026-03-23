@@ -1,0 +1,21 @@
+baseURL = "https://nowman-ug25.github.io/"
+title = "My Learning Reflection Journal"
+theme = "PaperMod"
+
+[params]
+author = "nowman-ug25"
+description = "A student's reflections on Information Science"
+showFullTextinHome = false
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "All Posts"
+    url = "/posts/"
+    weight = 20
