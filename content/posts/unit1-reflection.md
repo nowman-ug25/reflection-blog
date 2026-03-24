@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Unit 1: First Steps into Information Science"
 
@@ -6,11 +6,11 @@ date: 2026-01-28T10:00:00+05:30
 
 draft: false
 
-\---
+---
 
 
 
-\## Introduction
+## Introduction
 
 Information Science sits at the fascinating intersection of people, technology, and data. As I begin this course, I see it as the study of how information is created, organized, managed, and used—a discipline that shapes everything from library databases to the algorithms that power our daily digital interactions. This journal will track my journey into understanding these complex systems.
 
