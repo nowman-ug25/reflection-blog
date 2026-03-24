@@ -1,6 +1,9 @@
 baseURL = "https://github.com/nowman-ug25/reflection-blog"
 title = "My Learning Reflection Journal"
 theme = "PaperMod"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params]
 author = "nowman-ug25"
