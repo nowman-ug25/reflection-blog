@@ -5,7 +5,7 @@ theme = "PaperMod"
 [params]
 author = "nowman-ug25"
 description = "A student's reflections on Information Science"
-showFullTextinHome = false
+ShowFullTextinHome = false
 
 
 [menu]

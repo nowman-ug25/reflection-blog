@@ -9,6 +9,7 @@ draft: false
 \---
 
 
+
 Unit 2: Making Sense of Information Organization
 
 
@@ -18,6 +19,9 @@ Key Learnings
 
 
 Unit 2 focused on how information is structured to make it findable and usable. We covered metadata, classification systems (like taxonomies and folksonomies), and the principles behind organizing digital and physical information. I learned that good organization is invisible—when it works, we don't notice it; when it fails, chaos ensues.
+
+
+<!--more-->
 
 
 
@@ -46,16 +50,3 @@ Real-World Connection
 
 
 This unit made me critically examine apps I use daily. Spotify's playlists, for example, are organized by genre, mood, and user listening history. It's a combination of human-curated taxonomies and algorithmic folksonomies. Understanding this changes how I see technology—it's not magic, it's design.
-
-
-
-Questions I'm Pondering
-
-
-
-\- How do we ensure metadata isn't used to manipulate or discriminate?
-
-\- Can a single organization system work for everyone, or do we need personalized approaches?
-
-\- What happens when information is mislabeled or lacks metadata.
-
