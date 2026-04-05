@@ -6,8 +6,17 @@
     <description>Recent content in Posts on My Learning Reflection Journal</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 10:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 23:48:25 +0530</lastBuildDate>
     <atom:link href="https://github.com/nowman-ug25/reflection-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit3</title>
+      <link>https://github.com/nowman-ug25/reflection-blog/posts/unit3/</link>
+      <pubDate>Sun, 05 Apr 2026 23:48:25 +0530</pubDate>
+      <guid>https://github.com/nowman-ug25/reflection-blog/posts/unit3/</guid>
+      <description>&lt;h3 id=&#34;what-i-learned-about-failure&#34;&gt;What I Learned About Failure&lt;/h3&gt;
+&lt;p&gt;This unit taught me two big things: how to fail better and the difference between shame and guilt.&lt;/p&gt;
+&lt;p&gt;First, fail better. Failure is not always bad. The Knight Capital case showed how one small mistake caused a huge loss. The real problem was the system, not just the person. We should not blame one person. We should fix the system and learn for next time. That is failing better.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unit 2: Reflections on Information Organization</title>
       <link>https://github.com/nowman-ug25/reflection-blog/posts/unit2-reflection/</link>
@@ -53,6 +62,19 @@ This space will serve as:&lt;/p&gt;</description>
       <guid>https://github.com/nowman-ug25/reflection-blog/posts/unit1-reflection/</guid>
       <description>&lt;p&gt;Introduction&lt;/p&gt;
 &lt;p&gt;Information Science sits at the fascinating intersection of people, technology, and data. As I begin this course, I see it as the study of how information is created, organized, managed, and used—a discipline that shapes everything from library databases to the algorithms that power our daily digital interactions. This journal will track my journey into understanding these complex systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://github.com/nowman-ug25/reflection-blog/posts/unit3-reflection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/nowman-ug25/reflection-blog/posts/unit3-reflection/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;What I Learned About Failure&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;date: 2026-04-05&lt;/p&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;This unit taught me two big things: how to fail better and the difference between shame and guilt.&lt;/p&gt;
+&lt;p&gt;First, fail better. Failure is not always bad. The Knight Capital case showed how one small mistake caused a huge loss. The real problem was the system, not just the person. We should not blame one person. We should fix the system and learn for next time. That is failing better.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
