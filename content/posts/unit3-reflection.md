@@ -29,4 +29,3 @@ I did not blame anyone or anything for it as i did my best but it was not the be
 
 
 As an Information Science student, I will take these lessons forward. I will fail better, choose guilt over shame, and keep appreciating little success.
-
