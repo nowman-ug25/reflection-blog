@@ -4,29 +4,33 @@ draft = false
 title = 'Unit4 Reflection'
 +++
 
-In unit 5 I learned about what smartness is in the context of devices and technology and the straight answer is it's vague and there is no real meaning so I, with my group, define and measure smartness.
+In unit 4 I learned about the metabase and how there are already platforms where we can creat a good representation with graphs if we have a good amount of data.
 
 
 
-We learnt that smartness varies from situation to situation and there are different degrees of smartness from simple devices like a bottle to an operating system and to a smart city. Bangalore is officially called smart city but a smart person should be able to find the errors and fix them asap just like having smart traffic lights doesn't make the city smart. 
+We were given the data of all states and their air quality and pollutants and ozone level through the data of many years recorded.
 
 
 
-And presentations were interesting as the order of presentation was surprising but still the working ones worked more and the non-working ones didn't do much.
+The key learning for me in this when working with data we have to know thoroughly with how data has recorded as in our case while talking about states the majorly depended on how many and what pollutants those observation centre were recording as in kashmir there were no data center for a specific pollutant so for us it is 0 and best place but reality is questioned and same ways some observation centres were nearby industries and coal plants for them the pollution was very high but in reality the state can be much cleaner and better that as our graphs showed.
 
 
 
-It was interesting to know about other presentations too like the discrimination in the terminology which i never felt were discriminating and the apps which were limited to region and culture was interesting.
+
+
+The presentations were optional so there was ver less pressure on the group and there was less group engagement. I would not complain about that.
 
 
 
-One more which took my most attention was when the question was raised there is govt to watch over us but the big tech and new openAi nobody to watch over the data which they are gaining from us. It  brings some serious privacy concerns which no one has an answer for. 
+The one more learning was when working with different types of data the metric for me i didnt cross check if all pollutants were measured in the same metric. I didn't convert it and the graphs were fine but the numbers show very different results.
 
 
 
-The overall unit felt really nice as we mostly had to work on a topic and be thorough with all the topics of the group and be ready for any question thrown at us.and as questioning was also counted for class participation focusing on others presentation and questioning them was necessary. 
+
+
+As i realised indian cities are very polluted and thats were most observation centres are so it turns india is very polluted but as i belong from rural it is not the real case my region has the fresh air which most people would not realize and so relying only only graph also does not give the whole picture of the full state or county.
 
 
 
-The end class oath felt strong in me to be responsible with the future roles whatever i do at a point i will be handed with and never to use it in wrong way or hurt anyone was a really important thing to be mentioned and taken as a promise.
+And i learned it is very important to mention that for the give data its the result as reality can be very different than the surface level data.
 

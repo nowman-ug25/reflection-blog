@@ -13,8 +13,9 @@
       <link>https://github.com/nowman-ug25/reflection-blog/posts/unit4-reflection/</link>
       <pubDate>Tue, 12 May 2026 00:59:12 +0530</pubDate>
       <guid>https://github.com/nowman-ug25/reflection-blog/posts/unit4-reflection/</guid>
-      <description>&lt;p&gt;In unit 5 I learned about what smartness is in the context of devices and technology and the straight answer is it&amp;rsquo;s vague and there is no real meaning so I, with my group, define and measure smartness.&lt;/p&gt;
-&lt;p&gt;We learnt that smartness varies from situation to situation and there are different degrees of smartness from simple devices like a bottle to an operating system and to a smart city. Bangalore is officially called smart city but a smart person should be able to find the errors and fix them asap just like having smart traffic lights doesn&amp;rsquo;t make the city smart.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In unit 4 I learned about the metabase and how there are already platforms where we can creat a good representation with graphs if we have a good amount of data.&lt;/p&gt;
+&lt;p&gt;We were given the data of all states and their air quality and pollutants and ozone level through the data of many years recorded.&lt;/p&gt;
+&lt;p&gt;The key learning for me in this when working with data we have to know thoroughly with how data has recorded as in our case while talking about states the majorly depended on how many and what pollutants those observation centre were recording as in kashmir there were no data center for a specific pollutant so for us it is 0 and best place but reality is questioned and same ways some observation centres were nearby industries and coal plants for them the pollution was very high but in reality the state can be much cleaner and better that as our graphs showed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Typebot</title>
@@ -101,7 +102,13 @@ This space will serve as:&lt;/p&gt;</description>
       <link>https://github.com/nowman-ug25/reflection-blog/posts/unit5-reflection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://github.com/nowman-ug25/reflection-blog/posts/unit5-reflection/</guid>
-      <description></description>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;Unit 5 Reflection&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;date: 2026-05-12&lt;/p&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;In unit 5 I learned about what smartness is in the context of devices and technology and the straight answer is it&amp;rsquo;s vague and there is no real meaning so I, with my group, define and measure smartness.&lt;/p&gt;
+&lt;p&gt;We learnt that smartness varies from situation to situation and there are different degrees of smartness from simple devices like a bottle to an operating system and to a smart city. Bangalore is officially called smart city but a smart person should be able to find the errors and fix them asap just like having smart traffic lights doesn&amp;rsquo;t make the city smart.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
